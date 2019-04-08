@@ -35,8 +35,7 @@ public class ItemGenerator : MonoBehaviour
             }
             else
             {
-
-                //レーンごとにアイテムを生成
+                 //レーンごとにアイテムを生成
                 for (int j = -1; j <= 1; j++)
                 {
                     //アイテムの種類を決める
