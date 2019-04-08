@@ -17,7 +17,6 @@ public class MyCameraController : MonoBehaviour
         this.difference = unitychan.transform.position.z - this.transform.position.z;
 
     }
-
     // Update is called once per frame
     void Update()
     {
