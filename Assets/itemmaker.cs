@@ -79,8 +79,6 @@ public class itemmaker : MonoBehaviour
             i += interval;
 
             basho[yy] = i;
-
-
         }
         //どのアイテムを出すのかをランダムに設定@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 

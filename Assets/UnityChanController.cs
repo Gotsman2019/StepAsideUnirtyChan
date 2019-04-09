@@ -112,8 +112,7 @@ public class UnityChanController : MonoBehaviour
             this.scoreText.GetComponent<Text>().text = "Score" + this.score + "pt";
             GetComponent<ParticleSystem>().Play();
            Destroy(other.gameObject);
-
-        }
+             }
     }
     //ジャンプボタンを押した場合の処理
     public void GetMyJumpButtonDown()
